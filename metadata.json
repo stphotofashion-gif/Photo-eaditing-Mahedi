@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Photo Studio with IT Lancer BD new",
+  "description": "Professional studio-quality AI photo editing suite featuring background removal, HD upscaling, and AI dress changing for high-resolution printing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
